@@ -5,7 +5,7 @@ A lightweight directory indexing and password protection tool for static file se
 This script generates index.html files for all directories and subdirectories, with password protection 
 for the top-level directory.
 
-<img src="./assets/Screenshot.png" width="300" />
+<img src="./assets/Screenshot.png" width="600" />
 
 ## Features
 
